@@ -1,15 +1,38 @@
 # Portuguese
-- Nome: Claudio
-- Idade: 20
-- Educação: Cursando **Bacharelado em Design de Jogos (UNIFG)**
-- Nacionalidade: Brasileiro
+- Nome: Claudio Souza
+- Idade: 21
+- Educação: Estudante do **Projeto Soli Deo Gloria**
 - Línguas: Português (Fluente), Inglês (Avançado)
+- Linguagens de programação:
+  - Front End:
+    - HTML;
+    - CSS;
+    - JavaScript;
+    - React.JS.
+  - Back End:
+    - Java;
+    - MySQL;
+    - PostgreSQL.
+  - DevOPS:
+    - Docker.
 - Interesses: Estudar e aprender diferentes códigos e linguagens, usar o site para praticar e compartilhar os meus algoritmos.
 
 # English
-- Name: Claudio
-- Age: 20
-- Education: Studying **Bachelor's Degree in Game Design (UNIFG)**
+- Name: Claudio Souza
+- Age: 21
+- Education: **Project Soli Deo Gloria** Student
 - Nationality: Brazilian
 - Languages: Portuguese (Fluent), English (Advanced)
+- Programming Languages:
+  - Front End:
+    - HTML;
+    - CSS;
+    - JavaScript;
+    - React.JS.
+  - Back End:
+    - Java;
+    - MySQL;
+    - PostgreSQL.
+  - DevOPS:
+    - Docker.
 - Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
