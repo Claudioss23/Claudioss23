@@ -15,13 +15,14 @@
     - PostgreSQL.
   - DevOPS:
     - Docker.
+  - Frameworks:
+    - Poshi. 
 - Interesses: Estudar e aprender diferentes códigos e linguagens, usar o site para praticar e compartilhar os meus algoritmos.
 
 # English
 - Name: Claudio Souza
 - Age: 21
 - Education: **Project Soli Deo Gloria** Student
-- Nationality: Brazilian
 - Languages: Portuguese (Fluent), English (Advanced)
 - Programming Languages:
   - Front End:
@@ -35,4 +36,6 @@
     - PostgreSQL.
   - DevOPS:
     - Docker.
+  - Frameworks:
+    - Poshi. 
 - Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
