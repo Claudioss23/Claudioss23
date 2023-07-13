@@ -18,7 +18,7 @@
  Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
 </p>
 
-<br/>
+<hr/>
 
 **Programming Languages & Frameworks & Tools:**
 
@@ -35,6 +35,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
 </p>
+
+<hr/>
 
 **Github Stats**
 
