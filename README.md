@@ -6,11 +6,17 @@
 <br/>
 
 **About me:**
-
-* Age: 21
-* Education: **Project Soli Deo Gloria** Student
-* Languages: Portuguese (Fluent), English (Advanced)
-* Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
+<p align="center">
+ Hi, I'm Claudio, a newbie programmer from Brazil
+ <br/><br/>
+ 🎓 I'm currently studying  I.T. in <a href="https://www.instagram.com/projeto.solideogloria/" target="_blank">Project Soli Deo Gloria</a>
+ <br/>
+ 🎓 I graduated from Souza Leão High School
+ <br/>
+ 📖 I'm able to speak both in Portuguese (fluent) and English (advanced)
+ <br/>
+ Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
+</p>
 
 <br/>
 
@@ -32,26 +38,37 @@
 
 **Github Stats**
 
-<picture>
-  <source
+<p align="center">
+ <picture align="center">
+   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
+    width="50%"
+   />
+   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true" />
-</picture>
+    width="50%"
+   />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true" />
+ </picture>
+</p>
+ 
+<br/><br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23"
+<p align="center">
+ <picture align="center">
+   <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
+    width="50%"
+   />
+   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
-</picture>
+    width="50%"
+   />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
+ </picture>
+</p>
+
