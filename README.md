@@ -1,19 +1,27 @@
+<!-- Banner -->
+
 <picture>
   <source
-   srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70"
-   media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=D5BD7B&height=200&text=Claudio%20Souza&fontAlignY=40&fontSize=50&&fontColor=1f2328&animation=fadeIn"
+    media="(prefers-color-scheme: dark)"
+    width="100%"
   />
   <source
-   srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=D5BD7B&height=200&text=Claudio%20Souza&fontAlignY=40&fontSize=50&&fontColor=ffffff&animation=fadeIn"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="100%"
   />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?" />
 </picture>
+
+<!-- Links -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Claudioss23/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souza.claudiof23@gmail.com)
 
 <br/>
+
+<!-- Description and details -->
 
 **About me:**
 <p align="center">
@@ -83,4 +91,22 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
  </picture>
 </p>
+
+<!-- Footer -->
+
+<picture>
+  <source
+    srcset="https://capsule-render.vercel.app/api?section=footertype=waving&color=D5BD7B&height=150"
+    media="(prefers-color-scheme: dark)"
+    width="100%"
+  />
+  <source
+    srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=D5BD7B&height=150"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="100%"
+  />
+  <img src="https://capsule-render.vercel.app/api?" />
+</picture>
+
+
 
