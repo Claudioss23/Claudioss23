@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=D5BD7B&height=200&text=Claudio%20Souza&fontAlignY=40&fontSize=50&&fontColor=1f2328&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=D5BD7B&height=200&text=Claudio%20Souza&fontAlignY=40&fontSize=50&&fontColor=ffffff&animation=fadeIn"
     media="(prefers-color-scheme: dark)"
     width="100%"
   />
@@ -25,7 +25,7 @@
 
 **About me:**
 <p align="center">
- Hi, I'm Claudio, a newbie programmer from Brazil
+ 👋 Hi, I'm Claudio, a newbie programmer from Brazil
  <br/><br/>
  🎓 I'm currently studying  I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>
  <br/>
@@ -96,7 +96,7 @@
 
 <picture>
   <source
-    srcset="https://capsule-render.vercel.app/api?section=footertype=waving&color=D5BD7B&height=150"
+    srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=D5BD7B&height=150"
     media="(prefers-color-scheme: dark)"
     width="100%"
   />
