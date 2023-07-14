@@ -9,13 +9,13 @@
 <p align="center">
  Hi, I'm Claudio, a newbie programmer from Brazil
  <br/><br/>
- 🎓 I'm currently studying  I.T. in <a href="https://www.instagram.com/projeto.solideogloria/" target="_blank">Project Soli Deo Gloria</a>
+ 🎓 I'm currently studying  I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>
  <br/>
  🎓 I graduated from Souza Leão High School
  <br/>
  📖 I'm able to speak both in Portuguese (fluent) and English (advanced)
  <br/>
- Interests: Study and learn different codes and languages, use the website to practice and share my algorithms.
+ 👨🏽‍💻 I like to study and learn different codes and languages while using the website to practice and share my algorithms.
 </p>
 
 <hr/>
@@ -23,54 +23,54 @@
 **Programming Languages & Frameworks & Tools:**
 
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" />
 </p>
 
 <hr/>
 
-**Github Stats**
+**Github Stats:**
 
 <p align="center">
  <picture align="center">
    <source
     srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    width="50%"
+    width="400px"
+    align="left"
    />
    <source
     srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="50%"
+    width="400px"
+    align="left"
    />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true" />
  </picture>
-</p>
- 
-<br/><br/>
 
-<p align="center">
  <picture align="center">
    <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23&theme=dark"
     media="(prefers-color-scheme: dark)"
-    width="50%"
+    width="400px"
+    align="right"
    />
    <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="50%"
+    width="400px"
+    align="right"
    />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
  </picture>
 </p>
 
