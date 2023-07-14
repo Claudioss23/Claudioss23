@@ -59,37 +59,60 @@
 **Github Stats:**
 
 <p align="center">
- <picture align="center">
-   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-    width="400px"
-    align="left"
-   />
-   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="400px"
-    align="left"
-   />
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true" />
- </picture>
+  <div align="center">
+    <picture>
+     <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true&theme=dark&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: dark)"
+      width="400px"
+      align="left"
+     />
+     <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Claudioss23&show_icons=true&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      width="400px"
+      align="left"
+     />
+     <img align="left" src="https://github-readme-stats.vercel.app/api?" />
+   </picture>
+  
+   <picture align="center">
+     <source
+      srcset="https://streak-stats.demolab.com?user=Claudioss23&theme=dark&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: dark)"
+      width="400px"
+      align="right"
+     />
+     <source
+      srcset="https://streak-stats.demolab.com?user=Claudioss23&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      width="400px"
+      align="right"
+     />
+     <img align="right" src="https://streak-stats.demolab.com?" />
+   </picture>
+  </div>
 
- <picture align="center">
-   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23&theme=dark"
-    media="(prefers-color-scheme: dark)"
-    width="400px"
-    align="right"
-   />
-   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="400px"
-    align="right"
-   />
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23" />
- </picture>
+ <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+ <div align="center">
+   <picture align="center">
+     <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23&theme=dark&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: dark)"
+      width="400px"
+      align="center"
+     />
+     <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioss23&hide_border=true&border_radius=50"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      width="400px"
+      align="center"
+     />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?" />
+   </picture>
+ </div>
+ 
 </p>
 
 <!-- Footer -->
