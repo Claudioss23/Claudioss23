@@ -1,4 +1,14 @@
-<h1 align="center">Claudio Souza</h1>
+<picture>
+  <source
+   srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70"
+   media="(prefers-color-scheme: dark)"
+  />
+  <source
+   srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Claudio%20Souza&fontSize=70" />
+</picture>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Claudioss23/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souza.claudiof23@gmail.com)
