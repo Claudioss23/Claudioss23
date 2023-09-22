@@ -27,7 +27,7 @@
 <p align="center">
  👋 Hi, I'm Claudio, a newbie programmer from Brazil
  <br/><br/>
- 🎓 I'm currently studying  I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>
+ 🎓 I studied I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>
  <br/>
  🎓 I graduated from Souza Leão High School
  <br/>
