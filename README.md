@@ -24,9 +24,8 @@
 <!-- Description and details -->
 
 **About me:**
-<p align="center">
- 👋 Hi, I'm Claudio, a newbie programmer from Brazil
- <br/><br/>
+<p>👋 Hi, I'm Claudio, a newbie programmer from Brazil</p>
+<p>
  ✍️ I work as a technical writer at <a href="https://www.linkedin.com/company/liferay-inc-/">Liferay Inc</a>.
  <br/>
  🎓 I studied I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>.
