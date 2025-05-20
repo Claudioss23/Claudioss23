@@ -27,13 +27,15 @@
 <p align="center">
  👋 Hi, I'm Claudio, a newbie programmer from Brazil
  <br/><br/>
- 🎓 I studied I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>
+ ✍️ I work as a technical writer at <a href="https://www.linkedin.com/company/liferay-inc-/">Liferay Inc</a>.
  <br/>
- 🎓 I graduated from Souza Leão High School
+ 🎓 I studied I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>.
  <br/>
- 📖 I'm able to speak both in Portuguese (fluent) and English (advanced)
+ 👨‍🎓 I'm currently working towards my Bachelor's degree in Computer Science at UniFG. 
  <br/>
- 👨🏽‍💻 I like to study and learn different codes and languages while using the website to practice and share my algorithms.
+ 📖 I'm able to speak both in Portuguese (fluent) and English (advanced).
+ <br/>
+ 👨🏽‍💻 I like learning and practicing different codes and languages, as well as sharing my algorithms.
 </p>
 
 <hr/>
@@ -41,15 +43,15 @@
 **Programming Languages & Frameworks & Tools:**
 
 <p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" />
 </p>
