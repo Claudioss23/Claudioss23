@@ -26,13 +26,13 @@
 **About me:**
 <p>👋 Hi, I'm Claudio, a newbie programmer from Brazil</p>
 <p>
- ✍️ I work as a technical writer at <a href="https://www.linkedin.com/company/liferay-inc-/">Liferay Inc</a>.
+ ✍️ I have 2+ years of experience in technical writing.
  <br/>
  🎓 I studied I.T. in <a href="https://www.instagram.com/projeto.solideogloria/">Project Soli Deo Gloria</a>.
  <br/>
  👨‍🎓 I'm currently working towards my Bachelor's degree in Computer Science at UniFG. 
  <br/>
- 📖 I'm able to speak both in Portuguese (fluent) and English (advanced).
+ 📖 I'm able to speak fluently both in Portuguese and English.
  <br/>
  👨🏽‍💻 I like learning and practicing different codes and languages, as well as sharing my algorithms.
 </p>
